@@ -1,4 +1,4 @@
-$ Pkg install Nizar
+$ pkg install Nizar
 $ pkg update Nizar
 git clone https://github.com/nizar-hacker/kirim
 
