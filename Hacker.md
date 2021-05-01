@@ -1,6 +1,6 @@
-$ pkg install Nizar
-$ pkg update Nizar
+$ pkg install nizar
+$ pkg update nizar
 git clone https://github.com/nizar-hacker/kirim
 
-Cd Nizar
+Cd nizar
 python3 main.py
